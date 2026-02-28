@@ -7,16 +7,14 @@ Platform: Coursera
 Project Title:
 Trajectory Tracking Control of a Mobile Manipulator Using Feedforward and Feedback Control
 
---------------------------------------------------
-
+ 
 ## Project Overview
 
 This project implements trajectory generation and closed-loop control of a mobile manipulator using modern robotics principles. The objective is to track a desired end-effector trajectory accurately using feedback and feedforward control laws.
 
 The system generates a reference trajectory, computes tracking errors, applies a feedback-plus-feedforward controller, and outputs wheel and joint velocities for motion execution.
 
---------------------------------------------------
-
+ 
 ## Control Strategy
 
 Control Law Used:
