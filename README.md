@@ -29,7 +29,7 @@ Ki = 0.5
 
 These gains were selected experimentally to achieve smooth trajectory tracking with minimal steady-state error and stable system response.
 
---------------------------------------------------
+ 
 
 ## Software Description
 
@@ -50,7 +50,7 @@ The project consists of the following modules:
 5. error_plot.png  
    Displays trajectory tracking error.
 
---------------------------------------------------
+ 
 
 ## How To Run
 
@@ -62,14 +62,14 @@ Run the main program:
 
 python main.py
 
---------------------------------------------------
+ 
 
 ## Results
 
 The robot successfully tracks the desired trajectory with minimal tracking error.  
 The generated CSV and error plot confirm stable convergence and smooth motion.
 
---------------------------------------------------
+ 
 
 ## Notes
 
